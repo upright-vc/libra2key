@@ -1,2 +1,3 @@
 # libra2key
-Libra ⇔ 2key network integration enabling payments and rewards for the 2key ecosystem 
+In this open source project lead by Eitan Lavi (founder, CTO @ 2key) supported by the Libracamp grant program, 
+we present a POC Libra ⇔ 2key integration enabling payments and rewards for the 2key network. 
